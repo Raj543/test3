@@ -1,1 +1,2 @@
-I am trying git
+I am trying git.
+Able to do the git push in remote repo
