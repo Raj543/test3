@@ -1,0 +1,3 @@
+insurnace.provider.url=http://localhost:8088/insurnace-service/getPlans
+insurence.provider.msg=http://localhost:8088/insurnace-service/getMsg
+
